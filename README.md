@@ -7,7 +7,7 @@ Please note that, for now, these are my individual efforts which I hope to inspi
 * NBS = Need-based               
 * pa  = per-annum 
 
-|University |    IB Score    |   Country/City   | Language Required |     Fee      |
+|University |    IB Score    |   Country/City   | Language Requirement |     Fee      |
 |---|---|---|---|---|
 |    MIT     | Not specified  | USA/Cambridge   |    English    | $47,593 (NB) |
 |  Harvard   | Not specified  | USA/Cambridge   |    English    | $72,450 (NB) |
